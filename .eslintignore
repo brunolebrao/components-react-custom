@@ -1,0 +1,9 @@
+dist
+
+node_modules
+
+storybook-static
+
+covarage
+
+package-lock.json
